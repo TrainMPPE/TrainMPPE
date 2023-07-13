@@ -5,7 +5,7 @@ const VersionString = require("trainmppe/utils/VersionString");
 
 class VersionInfo {
     static NAME = "TrainMPPE";
-    static BASE_VERSION = "10.1";
+    static BASE_VERSION = "1.0.1";
     static IS_DEVELOPMENT_BUILD = true;
     static BUILD_CHANNEL = "stable";
 }
