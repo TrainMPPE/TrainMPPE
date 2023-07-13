@@ -1,1 +1,1 @@
-title TrainMPPE lol
+title TrainMPPE Server software for Bedrock
