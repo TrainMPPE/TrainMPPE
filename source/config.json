@@ -1,8 +1,9 @@
 {
  "ServerName": "TrainMPPE",
-  "ServerVersion": "0.1",
+  "ServerIP": "0.0.0.0",
   "ServerProtocol": "763",
-  "ServerMotd1": "TrainMPPE"
-  "ServerMotd2": "2 oxygen + 1 Hydrogen = Water"
+  "ServerMotd1": "TrainMPPE",
+  "ServerMotd2": "2 oxygen + 1 Hydrogen = Water",
+ "ServerPort": "19132",
 
 }
